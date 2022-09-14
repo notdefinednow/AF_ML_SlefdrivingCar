@@ -19,7 +19,7 @@ class Sensor{
             );
         }
     }
-
+//forthegram
     #getReading(ray,roadBorders){
         let touches=[];
 
